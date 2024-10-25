@@ -35,7 +35,7 @@
 					"silk_touch": {
 						"operations": [
 							{
-								"type": "tool_item_stack"
+								"type": "get_tool_item_stack"
 							},
 							{
 								"type": "puffish_skills:test",
@@ -48,7 +48,7 @@
 					"stone_like": {
 						"operations": [
 							{
-								"type": "mined_block_state"
+								"type": "get_mined_block_state"
 							},
 							{
 								"type": "puffish_skills:test",
@@ -61,7 +61,7 @@
 					"deepslate": {
 						"operations": [
 							{
-								"type": "mined_block_state"
+								"type": "get_mined_block_state"
 							},
 							{
 								"type": "puffish_skills:test",
@@ -74,7 +74,7 @@
 					"coal_ore": {
 						"operations": [
 							{
-								"type": "mined_block_state"
+								"type": "get_mined_block_state"
 							},
 							{
 								"type": "puffish_skills:test",
@@ -87,7 +87,7 @@
 					"copper_ore": {
 						"operations": [
 							{
-								"type": "mined_block_state"
+								"type": "get_mined_block_state"
 							},
 							{
 								"type": "puffish_skills:test",
@@ -100,7 +100,7 @@
 					"iron_ore": {
 						"operations": [
 							{
-								"type": "mined_block_state"
+								"type": "get_mined_block_state"
 							},
 							{
 								"type": "puffish_skills:test",
@@ -113,7 +113,7 @@
 					"gold_ore": {
 						"operations": [
 							{
-								"type": "mined_block_state"
+								"type": "get_mined_block_state"
 							},
 							{
 								"type": "puffish_skills:test",
@@ -126,7 +126,7 @@
 					"redstone_ore": {
 						"operations": [
 							{
-								"type": "mined_block_state"
+								"type": "get_mined_block_state"
 							},
 							{
 								"type": "puffish_skills:test",
@@ -139,7 +139,7 @@
 					"lapis_ore": {
 						"operations": [
 							{
-								"type": "mined_block_state"
+								"type": "get_mined_block_state"
 							},
 							{
 								"type": "puffish_skills:test",
@@ -152,7 +152,7 @@
 					"diamond_ore": {
 						"operations": [
 							{
-								"type": "mined_block_state"
+								"type": "get_mined_block_state"
 							},
 							{
 								"type": "puffish_skills:test",
@@ -165,7 +165,7 @@
 					"emerald_ore": {
 						"operations": [
 							{
-								"type": "mined_block_state"
+								"type": "get_mined_block_state"
 							},
 							{
 								"type": "puffish_skills:test",
@@ -178,7 +178,7 @@
 					"deepslate_coal_ore": {
 						"operations": [
 							{
-								"type": "mined_block_state"
+								"type": "get_mined_block_state"
 							},
 							{
 								"type": "puffish_skills:test",
@@ -191,7 +191,7 @@
 					"deepslate_copper_ore": {
 						"operations": [
 							{
-								"type": "mined_block_state"
+								"type": "get_mined_block_state"
 							},
 							{
 								"type": "puffish_skills:test",
@@ -204,7 +204,7 @@
 					"deepslate_iron_ore": {
 						"operations": [
 							{
-								"type": "mined_block_state"
+								"type": "get_mined_block_state"
 							},
 							{
 								"type": "puffish_skills:test",
@@ -217,7 +217,7 @@
 					"deepslate_gold_ore": {
 						"operations": [
 							{
-								"type": "mined_block_state"
+								"type": "get_mined_block_state"
 							},
 							{
 								"type": "puffish_skills:test",
@@ -230,7 +230,7 @@
 					"deepslate_redstone_ore": {
 						"operations": [
 							{
-								"type": "mined_block_state"
+								"type": "get_mined_block_state"
 							},
 							{
 								"type": "puffish_skills:test",
@@ -243,7 +243,7 @@
 					"deepslate_lapis_ore": {
 						"operations": [
 							{
-								"type": "mined_block_state"
+								"type": "get_mined_block_state"
 							},
 							{
 								"type": "puffish_skills:test",
@@ -256,7 +256,7 @@
 					"deepslate_diamond_ore": {
 						"operations": [
 							{
-								"type": "mined_block_state"
+								"type": "get_mined_block_state"
 							},
 							{
 								"type": "puffish_skills:test",
@@ -269,7 +269,7 @@
 					"deepslate_emerald_ore": {
 						"operations": [
 							{
-								"type": "mined_block_state"
+								"type": "get_mined_block_state"
 							},
 							{
 								"type": "puffish_skills:test",
