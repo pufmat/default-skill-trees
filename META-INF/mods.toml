@@ -8,3 +8,8 @@ version="1.1"
 displayName="Default Skill Trees"
 description="Adds default skill trees for Pufferfish's Skills mod."
 authors="Pufferfish"
+
+[[dependencies.default_skill_trees]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.21.3,)"

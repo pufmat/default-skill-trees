@@ -17,7 +17,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "generic.max_health",
+					"attribute": "max_health",
 					"value": 2,
 					"operation": "addition"
 				}
@@ -42,7 +42,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "puffish_skills:player.resistance",
+					"attribute": "puffish_skills:resistance",
 					"value": 0.01,
 					"operation": "multiply_total"
 				}
@@ -67,7 +67,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "puffish_skills:player.melee_damage",
+					"attribute": "puffish_skills:melee_damage",
 					"value": 0.03,
 					"operation": "multiply_total"
 				}
@@ -92,7 +92,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "puffish_skills:player.ranged_damage",
+					"attribute": "puffish_skills:ranged_damage",
 					"value": 0.03,
 					"operation": "multiply_total"
 				}
@@ -111,7 +111,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "generic.max_health",
+					"attribute": "max_health",
 					"value": 2,
 					"operation": "addition"
 				}
@@ -130,7 +130,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "puffish_skills:player.resistance",
+					"attribute": "puffish_skills:resistance",
 					"value": 0.01,
 					"operation": "multiply_total"
 				}
@@ -149,7 +149,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "puffish_skills:player.melee_damage",
+					"attribute": "puffish_skills:melee_damage",
 					"value": 0.03,
 					"operation": "multiply_total"
 				}
@@ -168,7 +168,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "puffish_skills:player.ranged_damage",
+					"attribute": "puffish_skills:ranged_damage",
 					"value": 0.03,
 					"operation": "multiply_total"
 				}
@@ -187,7 +187,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "generic.attack_speed",
+					"attribute": "attack_speed",
 					"value": 0.05,
 					"operation": "multiply_total"
 				}
@@ -206,7 +206,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "generic.movement_speed",
+					"attribute": "movement_speed",
 					"value": 0.05,
 					"operation": "multiply_total"
 				}
@@ -225,7 +225,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "generic.luck",
+					"attribute": "luck",
 					"value": 0.25,
 					"operation": "addition"
 				}
@@ -244,7 +244,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "puffish_skills:player.stamina",
+					"attribute": "puffish_skills:stamina",
 					"value": 0.05,
 					"operation": "multiply_total"
 				}
@@ -263,7 +263,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "puffish_skills:player.healing",
+					"attribute": "puffish_skills:healing",
 					"value": 0.05,
 					"operation": "multiply_total"
 				}
@@ -282,7 +282,7 @@
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "puffish_skills:player.jump",
+					"attribute": "puffish_skills:jump",
 					"value": 0.05,
 					"operation": "multiply_total"
 				}

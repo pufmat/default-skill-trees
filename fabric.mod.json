@@ -8,6 +8,9 @@
 		"Pufferfish"
 	],
 	"license": "Unlicense",
-	"environment": "*"
+	"environment": "*",
+	"depends": {
+		"minecraft": ">=1.21.3"
+	}
 }
 

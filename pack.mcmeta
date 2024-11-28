@@ -1,7 +1,7 @@
 {
 	"pack": {
-		"pack_format": 8,
-		"supported_formats": [0, 999],
+		"pack_format": 57,
+		"supported_formats": [57, 999],
 		"description": "Adds default skill trees for Pufferfish's Skills mod."
 	}
 }
